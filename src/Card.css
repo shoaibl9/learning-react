@@ -1,0 +1,7 @@
+.Card-body {
+  height: 50vh;
+  width: 140vh;
+  background: #FFFFFF;
+  margin: 2% auto;
+  box-shadow: -5px 10px #969391;
+}
